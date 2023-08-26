@@ -1,0 +1,7 @@
+com\javatraining\model\Role.class
+com\javatraining\App.class
+com\javatraining\utils\HibernateUtils.class
+com\javatraining\model\Category.class
+com\javatraining\model\User.class
+com\javatraining\model\UserProfile.class
+com\javatraining\model\Post.class
